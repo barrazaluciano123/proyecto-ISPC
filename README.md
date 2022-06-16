@@ -1,5 +1,5 @@
-# proyecto-ISPC
 Artefactos de Scum
+
 Product Backlog:
 	El Podruct Backlog es una lista de trabajo ordenado por prioridades para el equipo de desarrollo que se obtiene de la hoja de ruta y sus requisitos. Los elementos más importantes se muestran al principio del backlog del producto para que el equipo sepa qué hay que entregar primero. 
 
