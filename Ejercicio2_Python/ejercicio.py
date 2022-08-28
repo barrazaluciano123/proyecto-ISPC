@@ -22,4 +22,4 @@ for i in range(len(Dueno2)):
         print(Dueno2[i])
 
 
-print("")
+print("Fin del ejercicio")
